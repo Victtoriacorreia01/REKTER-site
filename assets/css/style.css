@@ -197,7 +197,8 @@
   
   .btn-primary,
   .btn-outline:is(:hover, :focus-visible) {
-    background-color: rgb(14, 14, 106);
+    background-color: rgb(140, 3, 3);
+    border-color: rgb(140, 3, 3);
     color: white;
   }
   
