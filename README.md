@@ -8,3 +8,11 @@ Você pode visualizar uma demonstração do site aqui.
 HTML5
 CSS3
 JavaScript puro!
+
+### REKTER - Business Agency Template
+This is a website template for a business agency called REKTER. It features a modern design and interactive functionalities to promote the company's services and make its projects stand out.
+
+Demo You can view a demo of the site here.
+
+Technologies Used
+HTML5, CSS3, JavaScript!
